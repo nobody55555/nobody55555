@@ -1,5 +1,5 @@
 - 👀 Passionate about unlocking the potential of technology, I deeply explore the realms of freeX, infosec, and the art of bash scripting.
-- 👋 Currently immersed in the worlds of LLMs, Python, Proxmox, I'm constantly seeking to expand my horizons.
+- 👋 Currently immersed in the worlds of LLMs, Python, Virtualization, I'm constantly seeking to expand my horizons.
 - 🌱 As a firm believer in the democratization of AI, I strive to make personalized artificial intelligence accessible to all.
 - 🌱 The adventure of learning drives me forward.
 - 🌱 Alongside my technical pursuits, I find solace in languages, strumming melodies on the guitar, and advocating for constitutional values.
